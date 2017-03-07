@@ -5,7 +5,7 @@ require 'rsync_ssh/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'rsync_ssh'
-  spec.version       = RsyncSsh::VERSION
+  spec.version       = RsyncSSH::VERSION
   spec.authors       = ['Cameron Mullen']
   spec.email         = ['cameron.mullen@gmail.com']
 
