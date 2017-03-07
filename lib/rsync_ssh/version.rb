@@ -1,3 +1,3 @@
-module RsyncSsh
-  VERSION = "0.1.0"
+module RsyncSSH
+  VERSION = '0.1.0'.freeze
 end

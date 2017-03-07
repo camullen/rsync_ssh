@@ -1,5 +1,6 @@
-require "rsync_ssh/version"
+require 'rsync_ssh/version'
 
-module RsyncSsh
+# Some documentation of RsyncSSH
+module RsyncSSH
   # Your code goes here...
 end

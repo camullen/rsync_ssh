@@ -1,2 +1,2 @@
-$LOAD_PATH.unshift File.expand_path("../../lib", __FILE__)
-require "rsync_ssh"
+$LOAD_PATH.unshift File.expand_path('../../lib', __FILE__)
+require 'rsync_ssh'
